@@ -1,0 +1,24 @@
+# docker-compose.yml
+version: "3.3"
+services:
+  wam-studio:
+    build: ./public
+    ports:
+      - "5002:5002"
+    environment:
+      - HTTPS=false
+    restart: unless-stopped
+
+  wam-bank:
+    build: ./bank
+    ports:
+      - "6002:6002"
+    environment:
+      - HTTPS=true
+      - STORAGE_DIR=/data/storage
+    volumes:
+      - projects:/data/storage
+    restart: unless-stopped
+
+volumes:
+    projects:

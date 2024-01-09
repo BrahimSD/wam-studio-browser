@@ -1,0 +1,11 @@
+*.vscode
+.cache
+dist
+node_modules
+bank/node_modules
+public/node_modules
+*.DS_STORE
+storage/*
+*.env
+*.pem
+/bank/storage/

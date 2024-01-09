@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Fly me to the moon [RNB]",
+    "songs": [
+      "/songs/FlyToTheMoon/BASS.mp3",
+      "/songs/FlyToTheMoon/DRUMS.mp3",
+      "/songs/FlyToTheMoon/GUITAR.mp3",
+      "/songs/FlyToTheMoon/VOCALS.mp3"
+    ]
+  },
+  {
+    "name": "Save Brubeck - Take Five [Jazz]",
+    "songs": [
+      "/songs/DaveBrubeck_TakeFive_Master/bass.mp3",
+      "/songs/DaveBrubeck_TakeFive_Master/drum.mp3",
+      "/songs/DaveBrubeck_TakeFive_Master/brass.mp3",
+      "/songs/DaveBrubeck_TakeFive_Master/piano.mp3"
+    ]
+  },
+  {
+    "name": "Bolz And Knecht - Summertime",
+    "songs": [
+      "/songs/BolzAndKnecht_Summertime/01_SaxophoneMic1.wav",
+      "/songs/BolzAndKnecht_Summertime/02_SaxophoneMic2.wav",
+      "/songs/BolzAndKnecht_Summertime/03_SaxophoneMic3.wav",
+      "/songs/BolzAndKnecht_Summertime/04_AcousticGtrCloseMics.wav",
+      "/songs/BolzAndKnecht_Summertime/05_AcousticGtrFarMics.wav",
+      "/songs/BolzAndKnecht_Summertime/06_AcousticGtrDI.wav"
+    ]
+  },
+  {
+    "name": "Admiral Crumple - Keeps Flowing",
+    "songs": [
+      "/songs/AdmiralCrumple_KeepsFlowing/01_Kick1.mp3",
+      "/songs/AdmiralCrumple_KeepsFlowing/02_Kick2.mp3",
+      "/songs/AdmiralCrumple_KeepsFlowing/03_Snare.mp3",
+      "/songs/AdmiralCrumple_KeepsFlowing/04_Hat1.mp3",
+      "/songs/AdmiralCrumple_KeepsFlowing/05_Hat2.mp3",
+      "/songs/AdmiralCrumple_KeepsFlowing/06_Sample.mp3",
+      "/songs/AdmiralCrumple_KeepsFlowing/07_LeadVox.mp3",
+      "/songs/AdmiralCrumple_KeepsFlowing/08_LeadVoxDouble1.mp3",
+      "/songs/AdmiralCrumple_KeepsFlowing/09_LeadVoxDouble2.mp3"
+    ]
+  },
+  {
+    "name": "Londres - Appelle",
+    "songs": [
+      "/songs/Londres%20Appelle/Bass.mp3",
+      "/songs/Londres%20Appelle/DRUMS.mp3",
+      "/songs/Londres%20Appelle/GUITAR.mp3",
+      "/songs/Londres%20Appelle/GUITAR2.mp3",
+      "/songs/Londres%20Appelle/KICK.mp3",
+      "/songs/Londres%20Appelle/VOCALS.mp3"
+    ]
+  },
+  {
+    "name": "Solo Guitar",
+    "songs": [
+      "/songs/Monopiste/guitar.ogg"
+    ]
+  },
+  {
+    "name": "Street Noise - Revelations",
+    "songs": [
+      "/songs/Street%20Noise%20-%20Revelations/01_Kick.mp3",
+      "/songs/Street%20Noise%20-%20Revelations/02_Snare.mp3",
+      "/songs/Street%20Noise%20-%20Revelations/03_Overheads.mp3",
+      "/songs/Street%20Noise%20-%20Revelations/03-Overheads-130729_0912.mp3",
+      "/songs/Street%20Noise%20-%20Revelations/04_Cymbals.mp3",
+      "/songs/Street%20Noise%20-%20Revelations/05_Bass.mp3",
+      "/songs/Street%20Noise%20-%20Revelations/06_Congas.mp3",
+      "/songs/Street%20Noise%20-%20Revelations/07_ElecGtr1.mp3",
+      "/songs/Street%20Noise%20-%20Revelations/08_ElecGtr2.mp3",
+      "/songs/Street%20Noise%20-%20Revelations/09_LeadVox.mp3",
+      "/songs/Street%20Noise%20-%20Revelations/10_HammondLeslieHi.mp3",
+      "/songs/Street%20Noise%20-%20Revelations/11_HammondLeslieLo.mp3"
+    ]
+  },
+  {
+    "name": "Tarte a la cerise",
+    "songs": [
+      "/songs/Tarte%20a%20la%20cerise/bass.ogg",
+      "/songs/Tarte%20a%20la%20cerise/cymbals.ogg",
+      "/songs/Tarte%20a%20la%20cerise/guitar.ogg",
+      "/songs/Tarte%20a%20la%20cerise/kick.ogg",
+      "/songs/Tarte%20a%20la%20cerise/snaretoms.ogg",
+      "/songs/Tarte%20a%20la%20cerise/song.ogg"
+    ]
+  }
+]
+
